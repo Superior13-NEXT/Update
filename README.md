@@ -5,4 +5,4 @@
 - Add lineage battery health
 - Add spoofing additions
 - Add application downgrade feature
-- additions itions Mass weather icon additions
+- Add Mass weather icon additions
